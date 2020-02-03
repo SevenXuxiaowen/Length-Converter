@@ -7,6 +7,21 @@
   pointer-events: none;
 }
 
+.input-group{
+  padding-top: 1em;
+}
+
+.normal{
+  color: green;
+}
+.warning{
+  color:red;
+}
+
+.grey{
+  color: #282c34;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
